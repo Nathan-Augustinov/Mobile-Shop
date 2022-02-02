@@ -54,7 +54,7 @@ If you open the index.php file on browser, you should be able to see something l
 <div> New Phones sections and the website's footer  </div>
 <img src="readme_images/new-phones+footer.png" />
 
-##Credits
+## Credits
 
 Some parts of the costumer side of the website have been realized after watching a e-commerce website using PHP and MySQL tutorial on Youtube. You can find the <a href="https://www.youtube.com/watch?v=KLWA2vCERSQ">tutorial</a> here.
 
