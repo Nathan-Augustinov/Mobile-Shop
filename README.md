@@ -2,7 +2,7 @@
 
 ## Description
 
-It is an e-commerce website project for online mobile phones purchases. The project has been implemented using the following technologies:
+It is an e-commerce website project for mobile phones online purchases. The project has been implemented using the following technologies:
 * HTML
 * CSS and SASS
 * PHP
@@ -56,7 +56,7 @@ If you open the index.php file on browser, you should be able to see something l
 
 ## Credits
 
-Some parts of the costumer side of the website have been realized after watching a e-commerce website using PHP and MySQL tutorial on Youtube. You can find the <a href="https://www.youtube.com/watch?v=KLWA2vCERSQ">tutorial</a> here.
+Some parts of the costumer side of the website have been realized after watching an e-commerce website using PHP and MySQL tutorial on Youtube. You can find the <a href="https://www.youtube.com/watch?v=KLWA2vCERSQ">tutorial</a> here.
 
 
 
