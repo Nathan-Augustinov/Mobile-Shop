@@ -29,7 +29,7 @@ To log into the admin page, you need to enter the required credentials (you can 
  * See all users list and delete them.
  * See all orders list, see order's details (total price, currency, order's products and their quantities) , change the order's status (from Pending to Delivered).
 
-## How the project looks
+## How does the project looks
 
 If you open the index.php file on browser, you should be able to see something like this:
 
